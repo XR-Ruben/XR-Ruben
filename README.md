@@ -16,7 +16,7 @@ Soy un **desarrollador apasionado** con experiencia en **[Frontend y Backend]**.
 </p>
 
 🚀 Habilidades principales
-<ul style="display: flex; list-style: none;"> <li><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="Logo de HTML" width="50px"/> HTML</li>   <li><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtSYqk5aKm893xwz9bikSapmBMxpIPBnGqi4cIgB0O8E50ooF6JzXzQDy1erHzVK4gf8w&usqp=CAU" alt="Logo de CSS" width="50px"/> CSS</li>   <li><img src="https://1000marcas.net/wp-content/uploads/2020/11/JavaScript-logo-1536x960.png" alt="Logo de JavaScript" width="50px"/> JavaScript</li> <li><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Logo de Python" width="50px"/> Python</li> </ul>
+<ul style="display: flex; list-style: none;"> <li><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="Logo de HTML" width="50px"/> HTML</li>   <li><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtSYqk5aKm893xwz9bikSapmBMxpIPBnGqi4cIgB0O8E50ooF6JzXzQDy1erHzVK4gf8w&usqp=CAU" alt="Logo de CSS" width="50px"/> CSS</li>   <li><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="Logo de JavaScript" width="50px"/> JavaScript</li> <li><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Logo de Python" width="50px"/> Python</li> </ul>
 
 💻 Mis proyectos destacados
 
