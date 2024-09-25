@@ -33,7 +33,7 @@ Arriendos.com:
 </p>
 
 ✉️ Correo: rubenmario777@gmail.com
-💼 LinkedIn: Tu Perfil
+💼 LinkedIn: www.linkedin.com/in/rubén-mario-ramírez-33b946190
 🌐 Página Web: tunombre.dev
 
 
