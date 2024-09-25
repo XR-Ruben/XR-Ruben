@@ -43,18 +43,17 @@ Arriendos.com:
 - 🔧 **¿Cuáles son tus experiencias previas?**: He trabajado en varios proyectos personales y colaborado en otros de código abierto. Aunque aún no tengo experiencia laboral formal, mi pasión por la programación y mi capacidad de resolver problemas hacen que sea un excelente candidato para proyectos desafiantes.
 - 📫 **¿Cómo y a través de qué medios te pueden contactar?**: Me puedes contactar a través de mi correo electrónico en ✉️ rubenmario777@gmail.com o enviándome un mensaje en LinkedIn 💼 www.linkedin.com/in/rubén-mario-ramírez-33b946190.
 
-#### Conectemos:
-- [LinkedIn](https://www.linkedin.com/in/tu-perfil-linkedin/)
-- [Twitter](https://twitter.com/tuusuario)
-- [Portfolio](https://tu-portfolio.com)
-
 <p style="font-family: 'Arial'; font-size: 16px; text-align: justify;">
    Si tienes alguna pregunta o quieres colaborar en algún proyecto, ¡no dudes en contactarme!
 </p>
 
-- ✉️ Correo: rubenmario777@gmail.com
-- 💼 LinkedIn: www.linkedin.com/in/rubén-mario-ramírez-33b946190
-- 🌐 Página Web: rubenmario777.wixsite.com
+#### Conectemos:
+- ✉️ [Correo](rubenmario777@gmail.com)
+- 💼[LinkedIn](https://www.linkedin.com/in/rubén-mario-ramírez-33b946190/)
+- [Twitter](https://twitter.com/tuusuario)
+- [Portfolio](https://github.com/XR-Ruben)
+
+
 
 
 
