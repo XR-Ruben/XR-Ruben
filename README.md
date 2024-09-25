@@ -10,15 +10,16 @@ Soy un **desarrollador apasionado** con experiencia en **[Frontend y Backend]**.
 
 <p style="font-family: 'Arial'; font-size: 16px; text-align: justify;">
   Llevo poco tiempo trabajando en el desarrollo de software. 
-  Mi especialidad incluye tecnologías como <strong>JavaScript</strong>, <strong>Python</strong>, 
-  y <strong>Node.js</strong>. Además, tengo experiencia en el desarrollo de aplicaciones web modernas, 
+  Mi especialidad incluye tecnologías como <strong>HTML</strong>, <strong>CSS</strong>, <strong>Python</strong>, 
+  y <strong>JavaScript</strong>. Además, tengo experiencia en el desarrollo de aplicaciones web modernas, 
   siempre buscando crear productos funcionales y con buen diseño.
 </p>
 
 🚀 Habilidades principales
-<ul style="display: flex; list-style: none;"> <li><img src="https://via.placeholder.com/50" alt="Logo de JavaScript" width="50px"/> JavaScript</li> <li><img src="https://via.placeholder.com/50" alt="Logo de Python" width="50px"/> Python</li> <li><img src="https://via.placeholder.com/50" alt="Logo de Node.js" width="50px"/> Node.js</li> </ul>
+<ul style="display: flex; list-style: none;"> <li><img src="https://1000marcas.net/wp-content/uploads/2020/11/JavaScript-logo-1536x960.png" alt="Logo de JavaScript" width="50px"/> JavaScript</li> <li><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Logo de Python" width="50px"/> Python</li> <li><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png" alt="Logo de HTML" width="50px"/> HTML</li> </ul>
 
 💻 Mis proyectos destacados
+
 onlyFlans:
 
 <p style="font-family: 'Arial'; font-size: 14px; text-align: justify;"> Este es un proyecto que utiliza <strong>Django</strong> y <strong>Pyhton</strong> para desarrollar una aplicación web de ventas de flanes online. </p> <img src="https://via.placeholder.com/300x200" alt="Proyecto 1" width="300px"/>
