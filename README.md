@@ -22,19 +22,19 @@ Soy un **desarrollador apasionado** con experiencia en **[Frontend y Backend]**.
 
 onlyFlans:
 
-<p style="font-family: 'Arial'; font-size: 14px; text-align: justify;"> Este es un proyecto que utiliza <strong>Django</strong> y <strong>Pyhton</strong> para desarrollar una aplicación web de ventas de flanes online. </p> <img src="https://via.placeholder.com/300x200" alt="Proyecto 1" width="300px"/>
+<p style="font-family: 'Arial'; font-size: 14px; text-align: justify;"> Este es un proyecto que utiliza <strong>Django</strong> y <strong>Pyhton</strong> para desarrollar una aplicación web de ventas de flanes online. </p> <img src="#" alt="Proyecto 1" width="300px"/>
 
 Arriendos.com:
 
-<p style="font-family: 'Arial'; font-size: 14px; text-align: justify;"> En este proyecto desarrollé una página web usando <strong>Django</strong> y <strong>Pyhton</strong> para gestionar una página de arriendo de inmuebles a nivel nacional. </p> <img src="https://via.placeholder.com/300x200" alt="Proyecto 2" width="300px"/>
+<p style="font-family: 'Arial'; font-size: 14px; text-align: justify;"> En este proyecto desarrollé una página web usando <strong>Django</strong> y <strong>Pyhton</strong> para gestionar una página de arriendo de inmuebles a nivel nacional. </p> <img src="#" alt="Proyecto 2" width="300px"/>
 
 <p style="font-family: 'Arial'; font-size: 16px; text-align: justify;">
    Si tienes alguna pregunta o quieres colaborar en algún proyecto, ¡no dudes en contactarme!
 </p>
 
 ✉️ Correo: rubenmario777@gmail.com
-💼 LinkedIn: www.linkedin.com/in/rubén-mario-ramírez
-🌐 Página Web: tunombre.dev
+💼 LinkedIn: www.linkedin.com/in/rubén-mario-ramírez-33b946190
+🌐 Página Web: martech.com
 
 
 
