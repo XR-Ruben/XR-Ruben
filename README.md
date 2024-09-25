@@ -6,7 +6,7 @@ Soy un **desarrollador apasionado** con conocimientos en **[Frontend y Backend]*
 
 ---
 
-## 🌍 **Sobre mí**
+## 🌍 **Resúmen Sobre Mí**
 
 <p style="font-family: 'Arial'; font-size: 16px; text-align: justify;">
   Llevo poco tiempo trabajando en el desarrollo de software. 
@@ -26,7 +26,7 @@ onlyFlans:
 Arriendos.com:
 <p style="font-family: 'Arial'; font-size: 14px; text-align: justify;"> En este proyecto desarrollé una página web usando <strong>Django</strong> y <strong>Pyhton</strong> para gestionar una página de arriendo de inmuebles a nivel nacional. </p> <img src="https://github.com/XR-Ruben/PROJECT_M7.git" alt="Arriendos.com" width="300px"/>
 
-💻 Sobre Mí:
+## 🌍 **Info Sobre Mí**
 
 - 👋 **¿Quién eres?**: Soy [Rubén  Mario], un desarrollador full-stack con una pasión por crear soluciones innovadoras a través del código.
 - 🌍 **¿De dónde eres?**: Soy de [Beni/Bolivia].
