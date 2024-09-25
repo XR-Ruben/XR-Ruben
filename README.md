@@ -8,7 +8,6 @@ Soy un **desarrollador apasionado** con experiencia en **[Frontend y Backend]**.
 
 ## 🌍 **Sobre mí**
 
-```html
 <p style="font-family: 'Arial'; font-size: 16px; text-align: justify;">
   Llevo poco tiempo trabajando en el desarrollo de software. 
   Mi especialidad incluye tecnologías como <strong>JavaScript</strong>, <strong>Python</strong>, 
@@ -16,11 +15,25 @@ Soy un **desarrollador apasionado** con experiencia en **[Frontend y Backend]**.
   siempre buscando crear productos funcionales y con buen diseño.
 </p>
 
+🚀 Habilidades principales
+<ul style="display: flex; list-style: none;"> <li><img src="https://via.placeholder.com/50" alt="Logo de JavaScript" width="50px"/> JavaScript</li> <li><img src="https://via.placeholder.com/50" alt="Logo de Python" width="50px"/> Python</li> <li><img src="https://via.placeholder.com/50" alt="Logo de Node.js" width="50px"/> Node.js</li> </ul>
 
+💻 Mis proyectos destacados
+onlyFlans:
 
+<p style="font-family: 'Arial'; font-size: 14px; text-align: justify;"> Este es un proyecto que utiliza <strong>Django</strong> y <strong>Pyhton</strong> para desarrollar una aplicación web de ventas de flanes online. </p> <img src="https://via.placeholder.com/300x200" alt="Proyecto 1" width="300px"/>
 
+Arriendos.com:
 
+<p style="font-family: 'Arial'; font-size: 14px; text-align: justify;"> En este proyecto desarrollé una página web usando <strong>Django</strong> y <strong>Pyhton</strong> para gestionar una página de arriendo de inmuebles a nivel nacional. </p> <img src="https://via.placeholder.com/300x200" alt="Proyecto 2" width="300px"/>
 
+<p style="font-family: 'Arial'; font-size: 16px; text-align: justify;">
+   Si tienes alguna pregunta o quieres colaborar en algún proyecto, ¡no dudes en contactarme!
+</p>
+
+✉️ Correo: rubenmario777@gmail.com
+💼 LinkedIn: Tu Perfil
+🌐 Página Web: tunombre.dev
 
 
 
