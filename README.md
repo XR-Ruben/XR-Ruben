@@ -41,7 +41,7 @@ Arriendos.com:
 
 - ✉️ Correo: rubenmario777@gmail.com
 - 💼 LinkedIn: www.linkedin.com/in/rubén-mario-ramírez-33b946190
-- 🌐 Página Web: martech.com
+- 🌐 Página Web: rubenmario777.wixsite.com
 
 
 
