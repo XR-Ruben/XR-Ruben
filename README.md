@@ -4,6 +4,14 @@
 
 Soy un **desarrollador apasionado** con conocimientos en **[Frontend y Backend]**. Me encanta crear soluciones innovadoras y compartir mis conocimientos con la comunidad. ¡Aquí puedes encontrar algunos de mis proyectos más interesantes!
 
+#### Tecnologías y Herramientas
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
+![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
+
 ---
 
 ## 🌍 **Resúmen Sobre Mí**
@@ -25,18 +33,6 @@ onlyFlans:
 
 Arriendos.com:
 <p style="font-family: 'Arial'; font-size: 14px; text-align: justify;"> En este proyecto desarrollé una página web usando <strong>Django</strong> y <strong>Pyhton</strong> para gestionar una página de arriendo de inmuebles a nivel nacional. </p> <img src="https://github.com/XR-Ruben/PROJECT_M7.git" alt="Arriendos.com" width="300px"/>
-
-
-#### Tecnologías y Herramientas
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
-
-
-
 
 ## 🌍 **Info Sobre Mí**
 
