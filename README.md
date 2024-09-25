@@ -50,7 +50,7 @@ Arriendos.com:
 #### Conectemos:
 - ✉️ [Correo](rubenmario777@gmail.com)
 - 💼[LinkedIn](https://www.linkedin.com/in/rubén-mario-ramírez-33b946190/)
-- [Twitter](https://twitter.com/tuusuario)
+- [Twitter](https://twitter.com/@MARTECH_07)
 - [Portfolio](https://github.com/XR-Ruben)
 
 
