@@ -26,6 +26,15 @@ onlyFlans:
 Arriendos.com:
 <p style="font-family: 'Arial'; font-size: 14px; text-align: justify;"> En este proyecto desarrollé una página web usando <strong>Django</strong> y <strong>Pyhton</strong> para gestionar una página de arriendo de inmuebles a nivel nacional. </p> <img src="https://github.com/XR-Ruben/PROJECT_M7.git" alt="Arriendos.com" width="300px"/>
 
+💻 Sobre Mí:
+
+👋 **¿Quién eres?**: Soy [Rubén  Mario], un desarrollador full-stack con una pasión por crear soluciones innovadoras a través del código.
+🌍 **¿De dónde eres?**: Soy de [Beni/Bolivia].
+💼 **¿A qué te dedicas?**: Actualmente, me dedico al desarrollo de aplicaciones web utilizando lenguajes y tecnologías como Javascript, Pyhton, y bases de datos como PostgreSQL.
+🎓 **¿Cuál es tu formación?**: Tengo formación en [Análisis de Datos, Desarrollo Web], y he completado varios proyectos de desarrollo web y backend que puedes revisar en mi portafolio.
+🔧 **¿Cuáles son tus experiencias previas?**: He trabajado en varios proyectos personales y colaborado en otros de código abierto. Aunque aún no tengo experiencia laboral formal, mi pasión por la programación y mi capacidad de resolver problemas hacen que sea un excelente candidato para proyectos desafiantes.
+📫 **¿Cómo y a través de qué medios te pueden contactar?**: Me puedes contactar a través de mi correo electrónico en [rubenmario777@gmail.com] o enviándome un mensaje en LinkedIn [www.linkedin.com/in/rubén-mario-ramírez-33b946190].
+
 <p style="font-family: 'Arial'; font-size: 16px; text-align: justify;">
    Si tienes alguna pregunta o quieres colaborar en algún proyecto, ¡no dudes en contactarme!
 </p>
