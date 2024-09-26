@@ -29,10 +29,10 @@ Soy un **desarrollador apasionado** con conocimientos en **[Frontend y Backend]*
 ## 💻 **Mis proyectos destacados**
 
 ###onlyFlans:
-<p style="font-family: 'Arial'; font-size: 14px; text-align: justify;"> Este es un proyecto que utiliza <strong>Django</strong> y <strong>Pyhton</strong> para desarrollar una aplicación web de ventas de flanes online. </p> <img src="https://pbs.twimg.com/media/EgxwDBZWkAI85F7?format=jpg&name=medium" alt="OnlyFlans" width="300px" /> [Visita -->] <a href="https://github.com/XR-Ruben/onlyflans.git" title="OnlyFlans"></a> inline link.
+<p style="font-family: 'Arial'; font-size: 14px; text-align: justify;"> Este es un proyecto que utiliza <strong>Django</strong> y <strong>Pyhton</strong> para desarrollar una aplicación web de ventas de flanes online. </p> <img src="https://pbs.twimg.com/media/EgxwDBZWkAI85F7?format=jpg&name=medium" alt="OnlyFlans" width="300px" />
 
 Arriendos.com:
-<p style="font-family: 'Arial'; font-size: 14px; text-align: justify;"> En este proyecto desarrollé una página web usando <strong>Django</strong> y <strong>Pyhton</strong> para gestionar una página de arriendo de inmuebles a nivel nacional. </p> <img src="https://github.com/XR-Ruben/PROJECT_M7.git" alt="Arriendos.com" width="300px"/>
+<p style="font-family: 'Arial'; font-size: 14px; text-align: justify;"> En este proyecto desarrollé una página web usando <strong>Django</strong> y <strong>Pyhton</strong> para gestionar una página de arriendo de inmuebles a nivel nacional. </p> <img src="https://previews.123rf.com/images/morethanl8ve/morethanl8ve1510/morethanl8ve151000098/46486312-logotipo-de-la-casa-alquiler-venta-y-construcci%C3%B3n-de-casas.jpg" alt="Arriendos.com" width="300px"/>
 
 ## 🌍 **Info Sobre Mí**
 
