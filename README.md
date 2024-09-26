@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy [Rubén Mario]
 
-<img src="https://github.com/user-attachments/assets/651830df-0ca3-46a7-bf3e-f61b2d0e1a1b" alt="Foto de perfil" align="right" width="150px"/>
+<img src="https://github.com/user-attachments/assets/2dc0da4e-cc1a-4b00-9bc5-8c451394329e" alt="Foto de perfil" align="right" width="150px"/>
 
 Soy un **desarrollador apasionado** con conocimientos en **[Frontend y Backend]**. Me encanta crear soluciones innovadoras y compartir mis conocimientos con la comunidad. ¡Aquí puedes encontrar algunos de mis proyectos más interesantes!
 
