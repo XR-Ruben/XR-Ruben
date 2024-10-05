@@ -60,7 +60,7 @@ Soy un **desarrollador apasionado** con conocimientos en **[Frontend y Backend]*
 
 #### Conectemos:
 - ✉️ [Correo]:rubenmario777@gmail.com
-- 💼[LinkedIn](https://www.linkedin.com/in/rubén-mario-ramírez-33b946190/)
+- 💼[LinkedIn](www.linkedin.com/in/rubén-mario-ramírez-itashiki-33b946190)
 - 💼[Twitter](https://twitter.com/@MARTECH_07)
 - 💼[Portfolio](https://github.com/XR-Ruben)
 
