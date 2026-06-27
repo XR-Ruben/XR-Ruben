@@ -33,7 +33,7 @@ Soy un **desarrollador apasionado** con conocimientos en **[Frontend y Backend]*
   </li>
 
   <li style="text-align: center;">
-    <img src="https://cdn.simpleicons.org/css3/1572B6" alt="Logo de CSS" width="50px"/><br/>
+    <img src="https://cdn.simpleicons.org/css/1572B6" alt="Logo de CSS" width="50px"/><br/>
     CSS
   </li>
 
