@@ -24,7 +24,29 @@ Soy un **desarrollador apasionado** con conocimientos en **[Frontend y Backend]*
 </p>
 
 ## 🚀 **Habilidades principales**
-<ul style="display: flex; list-style: none;"> <li><img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png](https://pixabay.com/images/download/b3nj5m1n-logo-2582748_1920.png)" alt="Logo de HTML" width="50px"/> HTML</li>   <li><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtSYqk5aKm893xwz9bikSapmBMxpIPBnGqi4cIgB0O8E50ooF6JzXzQDy1erHzVK4gf8w&usqp=CAU" alt="Logo de CSS" width="50px"/> CSS</li>   <li><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="Logo de JavaScript" width="50px"/> JavaScript</li> <li><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="Logo de Python" width="50px"/> Python</li> </ul>
+## 🚀 Habilidades principales
+
+<ul style="display: flex; list-style: none; gap: 20px; padding: 0;">
+  <li style="text-align: center;">
+    <img src="https://cdn.simpleicons.org/html5/E34F26" alt="Logo de HTML" width="50px"/><br/>
+    HTML
+  </li>
+
+  <li style="text-align: center;">
+    <img src="https://cdn.simpleicons.org/css3/1572B6" alt="Logo de CSS" width="50px"/><br/>
+    CSS
+  </li>
+
+  <li style="text-align: center;">
+    <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="Logo de JavaScript" width="50px"/><br/>
+    JavaScript
+  </li>
+
+  <li style="text-align: center;">
+    <img src="https://cdn.simpleicons.org/python/3776AB" alt="Logo de Python" width="50px"/><br/>
+    Python
+  </li>
+</ul>
 
 ## 💻 **Mis proyectos destacados**
 
