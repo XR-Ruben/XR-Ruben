@@ -23,7 +23,7 @@ Soy un **desarrollador apasionado** con conocimientos en **[Frontend y Backend]*
   siempre buscando crear productos funcionales y con buen diseño.
 </p>
 
-## 🚀 **Habilidades principales**
+
 ## 🚀 Habilidades principales
 
 <ul style="display: flex; list-style: none; gap: 20px; padding: 0;">
